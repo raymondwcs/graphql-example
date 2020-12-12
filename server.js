@@ -1,7 +1,3 @@
-/*
-curl -X POST -H "Content-Type: application/json" --data '{ "query": "{courses {title}}"}' http://localhost:4000/graphql
-*/
-
 const express = require('express');
 const express_graphql = require('express-graphql').graphqlHTTP;
 const { buildSchema } = require('graphql');
