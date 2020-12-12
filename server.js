@@ -16,14 +16,14 @@ const itineraryData = [
   {
     id: 1,
     departureDate: '2021-01-01',
-    departurecity: 'hongkong',
+    departurecCity: 'hongkong',
     arrivalDate: '2021-01-01',
     arrivalCity: 'tokyo'
   },
   {
     id: 2,
     departureDate: '2021-02-01',
-    departurecity: 'hongkong',
+    departureCity: 'hongkong',
     arrivalDate: '2021-02-01',
     arrivalCity: 'osaka'
   }
